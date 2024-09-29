@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hweur.github.io/tgx/sitemap.tgx.gz
